@@ -38,29 +38,29 @@ Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejo
 
 * #### Lecciones iniciales de programacion con C.
 
-*    Entendiendo la logica,  programacion procedural.
-*   Variables
-*   Estructuras
+    * Entendiendo la logica,  programacion procedural.
+    * Variables
+    * Estructuras
 	
 
 * ####  Programacion Orientada a Objetos OOP (Object Oriented Programming)
 
-* Iniciando con Python
-* Clases y Objetos 
+    * Iniciando con Python
+    * Clases y Objetos 
     
 * #### FrameWorks
-* Flask
-* Django
+    * Flask
+    * Django
 
 * #### Bases de datos
-* SQL
+    * SQL
 
 * #### Devops
-* Administracion de servidores
-* Configuracion
-* Despliegue
-* Monitoreo
-* Automatizacion
+    * Administracion de servidores
+    * Configuracion
+    * Despliegue
+    * Monitoreo
+    * Automatizacion
 
 
 <!--
