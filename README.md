@@ -12,27 +12,25 @@ Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejo
 
 <marquee direction="left">
 <p align='center'>
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/debian.svg" alt="debian" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/debian.svg" alt="debian" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/793997fd9514a5c9e66010c9b8df3acc8cc49f63/icons/linux.svg
-" alt="Linux" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/linux.svg" alt="Linux" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/793997fd9514a5c9e66010c9b8df3acc8cc49f63/icons/python(1).svg" alt="Python" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/python.svg" alt="Python" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/793997fd9514a5c9e66010c9b8df3acc8cc49f63/icons/c.svg" alt="C" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/c.svg" alt="C" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/793997fd9514a5c9e66010c9b8df3acc8cc49f63/icons/mysql.svg" alt="SQL" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/mysql.svg" alt="SQL" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/docker.svg" alt="docker" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/docker.svg" alt="docker" width="50" height="60">
 
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/visualstudiocode.svg" alt="VSCode" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/793997fd9514a5c9e66010c9b8df3acc8cc49f63/icons/visualstudiocode.svg" alt="VSCode" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/c-sharp-c-seeklogo.com.svg" alt="C#" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/1a9181a29c28aa6dc0bae4f1fe237005df2fcbf1/icons/c-sharp-c-seeklogo.com.svg" alt="C#" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/Telegram.svg" alt="Telegram" width="50" height="60">
 
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/82dc9c305949415f3f7b65add57145588e86acb5/icons/Telegram.svg" alt="Telegram" width="50" height="60">
-
-<img src="https://raw.githubusercontent.com/lemejiamo/lemejiamo/a6ad718c3b242d70ddd66adf93b5c1ef55c25ddc/icons/bash-shell-seeklogo.com.svg" alt="Bash" width="50" height="60">
+<img src="https://github.com/lemejiamo/lemejiamo/blob/main/icons/bash-shell-seeklogo.com.svg" alt="Bash" width="50" height="60">
 </p>
 </marquee>
 
