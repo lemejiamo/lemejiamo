@@ -1,8 +1,8 @@
-## Hola Tu 👋, la persona mas importante en esta pagina.
+## Hola Tu 👋, gracias por visitar este perfil.
 
 Hola soy Luis Mejia una persona curiosa y apasionada por aprender cosas nuevas, emprendí en el mundo del desarrollo por amor a esa curiosidad y la emoción de participar en la creación de tecnología para la vida.
 
-Espero puedas encontrar en este espacio información que te sea de ayuda para tu crecimiento y desarrollo profesional, tratare de explicarte de la mejor manera los proyectos que he realizado, la ruta de aprendizaje que he seguido y trasmitir todo lo que he aprendido.
+Espero puedas encontrar en este espacio información que te sea de ayuda para tu crecimiento y desarrollo profesional, y tambien puedas conocer un poco mejor mi perfil tecnico, los proyectos que he realizado de manera autonoma.
 
 Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejor en tu viaje por el mundo de la programación.
 
@@ -34,33 +34,36 @@ Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejo
 </p>
 </marquee>
 
-### Ruta de aprendizaje
+### Tecnologias Utilizadas
 
-* #### Lecciones iniciales de programacion con C.
-
-    * Entendiendo la logica,  programacion procedural.
-    * Variables
-    * Estructuras
-	
-
-* ####  Programacion Orientada a Objetos OOP (Object Oriented Programming)
-
-    * Iniciando con Python
-    * Clases y Objetos 
-    
 * #### FrameWorks
     * Flask
     * Django
+    * FastAPI
+    * Unity
+    * Bootstrap
 
-* #### Bases de datos
+* #### Lenguajes Utilizados
+
+    * Python
+    * Java
+    * C#
+    * Kotlin
     * SQL
 
-* #### Devops
-    * Administracion de servidores
-    * Configuracion
-    * Despliegue
-    * Monitoreo
-    * Automatizacion
+* ####  Editores
+
+    * Pycharm
+    * VScode
+    * Visual Studio
+    * Netbeans
+    * Android Studio
+    * Emacs
+
+* #### Bases de datos
+    * MySQL
+    * mongoDb
+    * Firebase REALTIME DATABASE
 
 
 <!--
@@ -68,7 +71,7 @@ Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Master Price
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
