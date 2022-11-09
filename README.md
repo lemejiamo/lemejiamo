@@ -2,7 +2,7 @@
 
 Hola soy Luis Mejia una persona curiosa y apasionada por aprender cosas nuevas, emprendí en el mundo del desarrollo por amor a esa curiosidad y la emoción de participar en la creación de tecnología para la vida.
 
-Espero puedas encontrar en este espacio información que te sea de ayuda para tu crecimiento y desarrollo profesional, y tambien puedas conocer un poco mejor mi perfil tecnico, los proyectos que he realizado de manera autonoma.
+Espero puedas encontrar en este espacio información que te sea de ayuda para tu crecimiento y desarrollo profesional, y tambien puedas conocer un poco mejor mi perfil tecnico y los proyectos que he realizado de manera autonoma.
 
 Gracias por tomarte el tiempo de leer esta breve introducción, te deseo lo mejor en tu viaje por el mundo de la programación.
 
